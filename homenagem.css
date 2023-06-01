@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:rgb(153, 255, 255);
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}   
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x: ;
+    overflow-y: ;
+}
+ul{
+    display: block;
+    max-width: 600px;
+    margin: 0 16px;
+    margin: 0 auto;  
+}
+
+li{
+    text-align: justify;
+    margin: 16px 0;
+}
+#quote{
+    display: block;
+    max-width: 600px;
+    margin: 0 auto; 
+}
+footer{
+    display: block;
+    max-width: 700px;
+    margin: 0 16px;
+    margin: 0 auto; 
+}
