@@ -11,15 +11,15 @@ Nesta certificação, você mergulhará no mundo do desenvolvimento web, aprende
 - **Descrição:** No primeiro projeto, você criará um simples aplicativo de fotos de gatos para aprender os conceitos básicos de HTML e CSS.
   
 
-### 3. Site de Teste com Práticas de Acessibilidade
+### 2. Site de Teste com Práticas de Acessibilidade
 
 - **Descrição:** Este projeto foca em práticas recomendadas de acessibilidade ao criar um site de teste, garantindo que seu site seja acessível para todos os usuários, independentemente de suas necessidades especiais.
 
-### 4. Galeria de Fotos com Flexbox
+### 3. Galeria de Fotos com Flexbox
 
 - **Descrição:** Agora é hora de tornar seu site responsivo! Você construirá uma galeria de fotos utilizando Flexbox para garantir que seu site se adapte a diferentes tamanhos de tela e dispositivos.
 
-### 5. Layout de Artigo de Revista com CSS Grid
+### 4. Layout de Artigo de Revista com CSS Grid
 
 - **Descrição:** Por fim, você criará um layout de artigo de revista utilizando CSS Grid, uma ferramenta poderosa para criar layouts complexos e responsivos.
 
